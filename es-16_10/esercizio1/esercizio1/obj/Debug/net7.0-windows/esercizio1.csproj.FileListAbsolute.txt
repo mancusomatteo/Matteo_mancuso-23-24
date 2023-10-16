@@ -1,0 +1,16 @@
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\esericizi 16-10\esercizio1\esercizio1\bin\Debug\net7.0-windows\esercizio1.exe
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\esericizi 16-10\esercizio1\esercizio1\bin\Debug\net7.0-windows\esercizio1.deps.json
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\esericizi 16-10\esercizio1\esercizio1\bin\Debug\net7.0-windows\esercizio1.runtimeconfig.json
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\esericizi 16-10\esercizio1\esercizio1\bin\Debug\net7.0-windows\esercizio1.dll
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\esericizi 16-10\esercizio1\esercizio1\bin\Debug\net7.0-windows\esercizio1.pdb
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\esericizi 16-10\esercizio1\esercizio1\obj\Debug\net7.0-windows\esercizio1.Form1.resources
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\esericizi 16-10\esercizio1\esercizio1\obj\Debug\net7.0-windows\esercizio1.csproj.GenerateResource.cache
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\esericizi 16-10\esercizio1\esercizio1\obj\Debug\net7.0-windows\esercizio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\esericizi 16-10\esercizio1\esercizio1\obj\Debug\net7.0-windows\esercizio1.AssemblyInfoInputs.cache
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\esericizi 16-10\esercizio1\esercizio1\obj\Debug\net7.0-windows\esercizio1.AssemblyInfo.cs
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\esericizi 16-10\esercizio1\esercizio1\obj\Debug\net7.0-windows\esercizio1.csproj.CoreCompileInputs.cache
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\esericizi 16-10\esercizio1\esercizio1\obj\Debug\net7.0-windows\esercizio1.dll
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\esericizi 16-10\esercizio1\esercizio1\obj\Debug\net7.0-windows\refint\esercizio1.dll
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\esericizi 16-10\esercizio1\esercizio1\obj\Debug\net7.0-windows\esercizio1.pdb
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\esericizi 16-10\esercizio1\esercizio1\obj\Debug\net7.0-windows\esercizio1.genruntimeconfig.cache
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\esericizi 16-10\esercizio1\esercizio1\obj\Debug\net7.0-windows\ref\esercizio1.dll

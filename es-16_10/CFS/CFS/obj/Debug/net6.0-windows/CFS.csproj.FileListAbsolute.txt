@@ -1,0 +1,24 @@
+C:\Users\Alessio Amato\Documents\Alessio\Scuola\4Ai\Workspace CS\CFS\bin\Debug\net6.0-windows\CFS.exe
+C:\Users\Alessio Amato\Documents\Alessio\Scuola\4Ai\Workspace CS\CFS\bin\Debug\net6.0-windows\CFS.deps.json
+C:\Users\Alessio Amato\Documents\Alessio\Scuola\4Ai\Workspace CS\CFS\bin\Debug\net6.0-windows\CFS.runtimeconfig.json
+C:\Users\Alessio Amato\Documents\Alessio\Scuola\4Ai\Workspace CS\CFS\bin\Debug\net6.0-windows\CFS.dll
+C:\Users\Alessio Amato\Documents\Alessio\Scuola\4Ai\Workspace CS\CFS\bin\Debug\net6.0-windows\CFS.pdb
+C:\Users\Alessio Amato\Documents\Alessio\Scuola\4Ai\Workspace CS\CFS\obj\Debug\net6.0-windows\CFS.csproj.AssemblyReference.cache
+C:\Users\Alessio Amato\Documents\Alessio\Scuola\4Ai\Workspace CS\CFS\obj\Debug\net6.0-windows\CFS.Form1.resources
+C:\Users\Alessio Amato\Documents\Alessio\Scuola\4Ai\Workspace CS\CFS\obj\Debug\net6.0-windows\CFS.Properties.Resources.resources
+C:\Users\Alessio Amato\Documents\Alessio\Scuola\4Ai\Workspace CS\CFS\obj\Debug\net6.0-windows\CFS.csproj.GenerateResource.cache
+C:\Users\Alessio Amato\Documents\Alessio\Scuola\4Ai\Workspace CS\CFS\obj\Debug\net6.0-windows\CFS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessio Amato\Documents\Alessio\Scuola\4Ai\Workspace CS\CFS\obj\Debug\net6.0-windows\CFS.AssemblyInfoInputs.cache
+C:\Users\Alessio Amato\Documents\Alessio\Scuola\4Ai\Workspace CS\CFS\obj\Debug\net6.0-windows\CFS.AssemblyInfo.cs
+C:\Users\Alessio Amato\Documents\Alessio\Scuola\4Ai\Workspace CS\CFS\obj\Debug\net6.0-windows\CFS.csproj.CoreCompileInputs.cache
+C:\Users\Alessio Amato\Documents\Alessio\Scuola\4Ai\Workspace CS\CFS\obj\Debug\net6.0-windows\CFS.dll
+C:\Users\Alessio Amato\Documents\Alessio\Scuola\4Ai\Workspace CS\CFS\obj\Debug\net6.0-windows\refint\CFS.dll
+C:\Users\Alessio Amato\Documents\Alessio\Scuola\4Ai\Workspace CS\CFS\obj\Debug\net6.0-windows\CFS.pdb
+C:\Users\Alessio Amato\Documents\Alessio\Scuola\4Ai\Workspace CS\CFS\obj\Debug\net6.0-windows\CFS.genruntimeconfig.cache
+C:\Users\Alessio Amato\Documents\Alessio\Scuola\4Ai\Workspace CS\CFS\obj\Debug\net6.0-windows\ref\CFS.dll
+C:\Users\Matteo\Downloads\CFS\CFS\obj\Debug\net6.0-windows\CFS.dll
+C:\Users\Matteo\Downloads\CFS\CFS\obj\Debug\net6.0-windows\refint\CFS.dll
+C:\Users\Matteo\Downloads\CFS\CFS\obj\Debug\net6.0-windows\CFS.pdb
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\esericizi 16-10\CFS\CFS\obj\Debug\net6.0-windows\CFS.dll
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\esericizi 16-10\CFS\CFS\obj\Debug\net6.0-windows\refint\CFS.dll
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\esericizi 16-10\CFS\CFS\obj\Debug\net6.0-windows\CFS.pdb
