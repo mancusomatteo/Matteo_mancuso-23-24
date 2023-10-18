@@ -1,0 +1,14 @@
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es-19_10\esercizio_classi\esercizio_classi\obj\Debug\net7.0\esercizio_classi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es-19_10\esercizio_classi\esercizio_classi\obj\Debug\net7.0\esercizio_classi.AssemblyInfoInputs.cache
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es-19_10\esercizio_classi\esercizio_classi\obj\Debug\net7.0\esercizio_classi.AssemblyInfo.cs
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es-19_10\esercizio_classi\esercizio_classi\obj\Debug\net7.0\esercizio_classi.csproj.CoreCompileInputs.cache
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es-19_10\esercizio_classi\esercizio_classi\bin\Debug\net7.0\esercizio_classi.exe
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es-19_10\esercizio_classi\esercizio_classi\bin\Debug\net7.0\esercizio_classi.deps.json
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es-19_10\esercizio_classi\esercizio_classi\bin\Debug\net7.0\esercizio_classi.runtimeconfig.json
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es-19_10\esercizio_classi\esercizio_classi\bin\Debug\net7.0\esercizio_classi.dll
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es-19_10\esercizio_classi\esercizio_classi\bin\Debug\net7.0\esercizio_classi.pdb
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es-19_10\esercizio_classi\esercizio_classi\obj\Debug\net7.0\esercizio_classi.dll
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es-19_10\esercizio_classi\esercizio_classi\obj\Debug\net7.0\refint\esercizio_classi.dll
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es-19_10\esercizio_classi\esercizio_classi\obj\Debug\net7.0\esercizio_classi.pdb
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es-19_10\esercizio_classi\esercizio_classi\obj\Debug\net7.0\esercizio_classi.genruntimeconfig.cache
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es-19_10\esercizio_classi\esercizio_classi\obj\Debug\net7.0\ref\esercizio_classi.dll
