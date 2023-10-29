@@ -1,0 +1,16 @@
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es-30_10\es_30-10\es_30-10\bin\Debug\net7.0-windows\es_30-10.exe
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es-30_10\es_30-10\es_30-10\bin\Debug\net7.0-windows\es_30-10.deps.json
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es-30_10\es_30-10\es_30-10\bin\Debug\net7.0-windows\es_30-10.runtimeconfig.json
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es-30_10\es_30-10\es_30-10\bin\Debug\net7.0-windows\es_30-10.dll
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es-30_10\es_30-10\es_30-10\bin\Debug\net7.0-windows\es_30-10.pdb
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es-30_10\es_30-10\es_30-10\obj\Debug\net7.0-windows\es_30_10.Form1.resources
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es-30_10\es_30-10\es_30-10\obj\Debug\net7.0-windows\es_30-10.csproj.GenerateResource.cache
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es-30_10\es_30-10\es_30-10\obj\Debug\net7.0-windows\es_30-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es-30_10\es_30-10\es_30-10\obj\Debug\net7.0-windows\es_30-10.AssemblyInfoInputs.cache
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es-30_10\es_30-10\es_30-10\obj\Debug\net7.0-windows\es_30-10.AssemblyInfo.cs
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es-30_10\es_30-10\es_30-10\obj\Debug\net7.0-windows\es_30-10.csproj.CoreCompileInputs.cache
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es-30_10\es_30-10\es_30-10\obj\Debug\net7.0-windows\es_30-10.dll
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es-30_10\es_30-10\es_30-10\obj\Debug\net7.0-windows\refint\es_30-10.dll
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es-30_10\es_30-10\es_30-10\obj\Debug\net7.0-windows\es_30-10.pdb
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es-30_10\es_30-10\es_30-10\obj\Debug\net7.0-windows\es_30-10.genruntimeconfig.cache
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es-30_10\es_30-10\es_30-10\obj\Debug\net7.0-windows\ref\es_30-10.dll
