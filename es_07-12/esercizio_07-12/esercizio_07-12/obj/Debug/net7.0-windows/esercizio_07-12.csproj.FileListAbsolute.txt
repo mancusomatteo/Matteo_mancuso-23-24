@@ -1,0 +1,16 @@
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es_07-12\esercizio_07-12\esercizio_07-12\bin\Debug\net7.0-windows\esercizio_07-12.exe
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es_07-12\esercizio_07-12\esercizio_07-12\bin\Debug\net7.0-windows\esercizio_07-12.deps.json
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es_07-12\esercizio_07-12\esercizio_07-12\bin\Debug\net7.0-windows\esercizio_07-12.runtimeconfig.json
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es_07-12\esercizio_07-12\esercizio_07-12\bin\Debug\net7.0-windows\esercizio_07-12.dll
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es_07-12\esercizio_07-12\esercizio_07-12\bin\Debug\net7.0-windows\esercizio_07-12.pdb
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es_07-12\esercizio_07-12\esercizio_07-12\obj\Debug\net7.0-windows\esercizio_07_12.Form1.resources
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es_07-12\esercizio_07-12\esercizio_07-12\obj\Debug\net7.0-windows\esercizio_07-12.csproj.GenerateResource.cache
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es_07-12\esercizio_07-12\esercizio_07-12\obj\Debug\net7.0-windows\esercizio_07-12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es_07-12\esercizio_07-12\esercizio_07-12\obj\Debug\net7.0-windows\esercizio_07-12.AssemblyInfoInputs.cache
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es_07-12\esercizio_07-12\esercizio_07-12\obj\Debug\net7.0-windows\esercizio_07-12.AssemblyInfo.cs
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es_07-12\esercizio_07-12\esercizio_07-12\obj\Debug\net7.0-windows\esercizio_07-12.csproj.CoreCompileInputs.cache
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es_07-12\esercizio_07-12\esercizio_07-12\obj\Debug\net7.0-windows\esercizio_07-12.dll
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es_07-12\esercizio_07-12\esercizio_07-12\obj\Debug\net7.0-windows\refint\esercizio_07-12.dll
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es_07-12\esercizio_07-12\esercizio_07-12\obj\Debug\net7.0-windows\esercizio_07-12.pdb
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es_07-12\esercizio_07-12\esercizio_07-12\obj\Debug\net7.0-windows\esercizio_07-12.genruntimeconfig.cache
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\es_07-12\esercizio_07-12\esercizio_07-12\obj\Debug\net7.0-windows\ref\esercizio_07-12.dll
