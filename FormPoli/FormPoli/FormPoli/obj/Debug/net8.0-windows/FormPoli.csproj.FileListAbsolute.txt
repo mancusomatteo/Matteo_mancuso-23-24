@@ -1,0 +1,16 @@
+C:\Users\rikys\OneDrive\Desktop\info\31_01\FormPoli\FormPoli\obj\Debug\net8.0-windows\FormPoli.Form1.resources
+C:\Users\rikys\OneDrive\Desktop\info\31_01\FormPoli\FormPoli\obj\Debug\net8.0-windows\FormPoli.csproj.GenerateResource.cache
+C:\Users\rikys\OneDrive\Desktop\info\31_01\FormPoli\FormPoli\obj\Debug\net8.0-windows\FormPoli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rikys\OneDrive\Desktop\info\31_01\FormPoli\FormPoli\obj\Debug\net8.0-windows\FormPoli.AssemblyInfoInputs.cache
+C:\Users\rikys\OneDrive\Desktop\info\31_01\FormPoli\FormPoli\obj\Debug\net8.0-windows\FormPoli.AssemblyInfo.cs
+C:\Users\rikys\OneDrive\Desktop\info\31_01\FormPoli\FormPoli\obj\Debug\net8.0-windows\FormPoli.csproj.CoreCompileInputs.cache
+C:\Users\rikys\OneDrive\Desktop\info\31_01\FormPoli\FormPoli\bin\Debug\net8.0-windows\FormPoli.exe
+C:\Users\rikys\OneDrive\Desktop\info\31_01\FormPoli\FormPoli\bin\Debug\net8.0-windows\FormPoli.deps.json
+C:\Users\rikys\OneDrive\Desktop\info\31_01\FormPoli\FormPoli\bin\Debug\net8.0-windows\FormPoli.runtimeconfig.json
+C:\Users\rikys\OneDrive\Desktop\info\31_01\FormPoli\FormPoli\bin\Debug\net8.0-windows\FormPoli.dll
+C:\Users\rikys\OneDrive\Desktop\info\31_01\FormPoli\FormPoli\bin\Debug\net8.0-windows\FormPoli.pdb
+C:\Users\rikys\OneDrive\Desktop\info\31_01\FormPoli\FormPoli\obj\Debug\net8.0-windows\FormPoli.dll
+C:\Users\rikys\OneDrive\Desktop\info\31_01\FormPoli\FormPoli\obj\Debug\net8.0-windows\refint\FormPoli.dll
+C:\Users\rikys\OneDrive\Desktop\info\31_01\FormPoli\FormPoli\obj\Debug\net8.0-windows\FormPoli.pdb
+C:\Users\rikys\OneDrive\Desktop\info\31_01\FormPoli\FormPoli\obj\Debug\net8.0-windows\FormPoli.genruntimeconfig.cache
+C:\Users\rikys\OneDrive\Desktop\info\31_01\FormPoli\FormPoli\obj\Debug\net8.0-windows\ref\FormPoli.dll

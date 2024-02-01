@@ -78,7 +78,7 @@ namespace es_27
         {
             Genere = genere;
 
-        }
+        } 
         public override string ToString()
         {
             return "Titolo: " + titolo + ", Autore: " + autore + ", Pagine: " + n_pagine + ", Genere: " + genere + " , Costo: " + Costo().ToString();

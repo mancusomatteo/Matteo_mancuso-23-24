@@ -59,7 +59,7 @@ namespace es_27
             string g = listBox1.Text.ToString();
             try
             {
-                l.Modifica(g);
+                 
             }
             catch (Exception)
             {

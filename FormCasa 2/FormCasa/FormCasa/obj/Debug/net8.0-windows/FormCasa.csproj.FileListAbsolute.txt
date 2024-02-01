@@ -1,0 +1,16 @@
+C:\Users\rikys\OneDrive\Desktop\info\31_01\FormCasa\FormCasa\bin\Debug\net8.0-windows\FormCasa.exe
+C:\Users\rikys\OneDrive\Desktop\info\31_01\FormCasa\FormCasa\bin\Debug\net8.0-windows\FormCasa.deps.json
+C:\Users\rikys\OneDrive\Desktop\info\31_01\FormCasa\FormCasa\bin\Debug\net8.0-windows\FormCasa.runtimeconfig.json
+C:\Users\rikys\OneDrive\Desktop\info\31_01\FormCasa\FormCasa\bin\Debug\net8.0-windows\FormCasa.dll
+C:\Users\rikys\OneDrive\Desktop\info\31_01\FormCasa\FormCasa\bin\Debug\net8.0-windows\FormCasa.pdb
+C:\Users\rikys\OneDrive\Desktop\info\31_01\FormCasa\FormCasa\obj\Debug\net8.0-windows\FormCasa.Form1.resources
+C:\Users\rikys\OneDrive\Desktop\info\31_01\FormCasa\FormCasa\obj\Debug\net8.0-windows\FormCasa.csproj.GenerateResource.cache
+C:\Users\rikys\OneDrive\Desktop\info\31_01\FormCasa\FormCasa\obj\Debug\net8.0-windows\FormCasa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rikys\OneDrive\Desktop\info\31_01\FormCasa\FormCasa\obj\Debug\net8.0-windows\FormCasa.AssemblyInfoInputs.cache
+C:\Users\rikys\OneDrive\Desktop\info\31_01\FormCasa\FormCasa\obj\Debug\net8.0-windows\FormCasa.AssemblyInfo.cs
+C:\Users\rikys\OneDrive\Desktop\info\31_01\FormCasa\FormCasa\obj\Debug\net8.0-windows\FormCasa.csproj.CoreCompileInputs.cache
+C:\Users\rikys\OneDrive\Desktop\info\31_01\FormCasa\FormCasa\obj\Debug\net8.0-windows\FormCasa.dll
+C:\Users\rikys\OneDrive\Desktop\info\31_01\FormCasa\FormCasa\obj\Debug\net8.0-windows\refint\FormCasa.dll
+C:\Users\rikys\OneDrive\Desktop\info\31_01\FormCasa\FormCasa\obj\Debug\net8.0-windows\FormCasa.pdb
+C:\Users\rikys\OneDrive\Desktop\info\31_01\FormCasa\FormCasa\obj\Debug\net8.0-windows\FormCasa.genruntimeconfig.cache
+C:\Users\rikys\OneDrive\Desktop\info\31_01\FormCasa\FormCasa\obj\Debug\net8.0-windows\ref\FormCasa.dll
