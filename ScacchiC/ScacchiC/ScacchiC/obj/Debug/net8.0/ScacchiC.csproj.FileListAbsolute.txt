@@ -1,0 +1,43 @@
+C:\Users\AlessioAmato\Desktop\ScacchiC\ScacchiC\bin\Debug\net8.0\ScacchiC.exe
+C:\Users\AlessioAmato\Desktop\ScacchiC\ScacchiC\bin\Debug\net8.0\ScacchiC.deps.json
+C:\Users\AlessioAmato\Desktop\ScacchiC\ScacchiC\bin\Debug\net8.0\ScacchiC.runtimeconfig.json
+C:\Users\AlessioAmato\Desktop\ScacchiC\ScacchiC\bin\Debug\net8.0\ScacchiC.dll
+C:\Users\AlessioAmato\Desktop\ScacchiC\ScacchiC\bin\Debug\net8.0\ScacchiC.pdb
+C:\Users\AlessioAmato\Desktop\ScacchiC\ScacchiC\obj\Debug\net8.0\ScacchiC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlessioAmato\Desktop\ScacchiC\ScacchiC\obj\Debug\net8.0\ScacchiC.AssemblyInfoInputs.cache
+C:\Users\AlessioAmato\Desktop\ScacchiC\ScacchiC\obj\Debug\net8.0\ScacchiC.AssemblyInfo.cs
+C:\Users\AlessioAmato\Desktop\ScacchiC\ScacchiC\obj\Debug\net8.0\ScacchiC.csproj.CoreCompileInputs.cache
+C:\Users\AlessioAmato\Desktop\ScacchiC\ScacchiC\obj\Debug\net8.0\ScacchiC.dll
+C:\Users\AlessioAmato\Desktop\ScacchiC\ScacchiC\obj\Debug\net8.0\refint\ScacchiC.dll
+C:\Users\AlessioAmato\Desktop\ScacchiC\ScacchiC\obj\Debug\net8.0\ScacchiC.pdb
+C:\Users\AlessioAmato\Desktop\ScacchiC\ScacchiC\obj\Debug\net8.0\ScacchiC.genruntimeconfig.cache
+C:\Users\AlessioAmato\Desktop\ScacchiC\ScacchiC\obj\Debug\net8.0\ref\ScacchiC.dll
+C:\Users\AlessioAmato\Desktop\ScacchiC\ScacchiC\ScacchiC\bin\Debug\net8.0\ScacchiC.exe
+C:\Users\AlessioAmato\Desktop\ScacchiC\ScacchiC\ScacchiC\bin\Debug\net8.0\ScacchiC.deps.json
+C:\Users\AlessioAmato\Desktop\ScacchiC\ScacchiC\ScacchiC\bin\Debug\net8.0\ScacchiC.runtimeconfig.json
+C:\Users\AlessioAmato\Desktop\ScacchiC\ScacchiC\ScacchiC\bin\Debug\net8.0\ScacchiC.dll
+C:\Users\AlessioAmato\Desktop\ScacchiC\ScacchiC\ScacchiC\bin\Debug\net8.0\ScacchiC.pdb
+C:\Users\AlessioAmato\Desktop\ScacchiC\ScacchiC\ScacchiC\obj\Debug\net8.0\ScacchiC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlessioAmato\Desktop\ScacchiC\ScacchiC\ScacchiC\obj\Debug\net8.0\ScacchiC.AssemblyInfoInputs.cache
+C:\Users\AlessioAmato\Desktop\ScacchiC\ScacchiC\ScacchiC\obj\Debug\net8.0\ScacchiC.AssemblyInfo.cs
+C:\Users\AlessioAmato\Desktop\ScacchiC\ScacchiC\ScacchiC\obj\Debug\net8.0\ScacchiC.csproj.CoreCompileInputs.cache
+C:\Users\AlessioAmato\Desktop\ScacchiC\ScacchiC\ScacchiC\obj\Debug\net8.0\ScacchiC.dll
+C:\Users\AlessioAmato\Desktop\ScacchiC\ScacchiC\ScacchiC\obj\Debug\net8.0\refint\ScacchiC.dll
+C:\Users\AlessioAmato\Desktop\ScacchiC\ScacchiC\ScacchiC\obj\Debug\net8.0\ScacchiC.pdb
+C:\Users\AlessioAmato\Desktop\ScacchiC\ScacchiC\ScacchiC\obj\Debug\net8.0\ScacchiC.genruntimeconfig.cache
+C:\Users\AlessioAmato\Desktop\ScacchiC\ScacchiC\ScacchiC\obj\Debug\net8.0\ref\ScacchiC.dll
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\ScacchiC\ScacchiC\ScacchiC\bin\Debug\net8.0\ScacchiC.exe
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\ScacchiC\ScacchiC\ScacchiC\bin\Debug\net8.0\ScacchiC.deps.json
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\ScacchiC\ScacchiC\ScacchiC\bin\Debug\net8.0\ScacchiC.runtimeconfig.json
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\ScacchiC\ScacchiC\ScacchiC\bin\Debug\net8.0\ScacchiC.dll
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\ScacchiC\ScacchiC\ScacchiC\bin\Debug\net8.0\ScacchiC.pdb
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\ScacchiC\ScacchiC\ScacchiC\obj\Debug\net8.0\ScacchiC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\ScacchiC\ScacchiC\ScacchiC\obj\Debug\net8.0\ScacchiC.AssemblyInfoInputs.cache
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\ScacchiC\ScacchiC\ScacchiC\obj\Debug\net8.0\ScacchiC.AssemblyInfo.cs
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\ScacchiC\ScacchiC\ScacchiC\obj\Debug\net8.0\ScacchiC.csproj.CoreCompileInputs.cache
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\ScacchiC\ScacchiC\ScacchiC\obj\Debug\net8.0\ScacchiC.sourcelink.json
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\ScacchiC\ScacchiC\ScacchiC\obj\Debug\net8.0\ScacchiC.dll
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\ScacchiC\ScacchiC\ScacchiC\obj\Debug\net8.0\refint\ScacchiC.dll
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\ScacchiC\ScacchiC\ScacchiC\obj\Debug\net8.0\ScacchiC.pdb
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\ScacchiC\ScacchiC\ScacchiC\obj\Debug\net8.0\ScacchiC.genruntimeconfig.cache
+C:\Users\Matteo\OneDrive - IIS G. Marconi\Desktop\compiti_info-2324\ScacchiC\ScacchiC\ScacchiC\obj\Debug\net8.0\ref\ScacchiC.dll
